@@ -7,3 +7,11 @@ def toadstool
   puts status
 end
 end
+
+def link 
+  journey = ""
+
+def all-phrases 
+  puts phrase 
+  puts status
+  puts
