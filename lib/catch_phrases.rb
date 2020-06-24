@@ -9,4 +9,6 @@ def toadstool
   end
   
   def link 
-    journey = 
+    journey = "It's Dangerous To Go Alone! Take This."
+    puts journey
+  end
