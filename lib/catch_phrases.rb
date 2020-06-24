@@ -12,3 +12,9 @@ def toadstool
     journey = "It's Dangerous To Go Alone! Take This."
     puts journey
   end
+  
+  def all_phrases 
+    puts phrase
+    puts status
+    puts journey
+  end
