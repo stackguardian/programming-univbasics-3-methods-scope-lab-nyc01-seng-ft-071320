@@ -9,9 +9,12 @@ end
 end
 
 def link 
-  journey = ""
+  journey = "It's Dangerous To Go Alone! Take This."
+  puts journey
 
 def all-phrases 
   puts phrase 
   puts status
-  puts
+  puts journey
+end
+end
